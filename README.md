@@ -43,3 +43,10 @@ Este projeto implementa um pequeno fluxo de formulário com confirmação e arma
 - **JSON** — formato de exportação dos dados
 
 ---
+
+## 🎥 Demonstração em Vídeo
+
+Assista ao vídeo de funcionamento completo do projeto no link abaixo:  
+
+👉 [**Clique aqui para assistir à demonstração**](https://unilavrasedu-my.sharepoint.com/:v:/g/personal/matheusrodaniel_sou_unilavras_edu_br/Ebr_EoDVkylGn26iE4pa2a4BXmDnPYXXCX44hYiyhPHCRA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O6zTaN)
+
